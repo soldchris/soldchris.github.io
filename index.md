@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Bienvenidos a mi página de GitHub
 
 You can use the [editor on GitHub](https://github.com/soldchris/soldchris.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
